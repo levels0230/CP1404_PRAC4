@@ -3,7 +3,7 @@ import wikipedia
 
 app = Flask(__name__)
 # Set the secret key. Keep this really secret:
-app.secret_key = 'IT@JCUA0Zr98j/3yXa R~XHH!jmN]LWX/,?RT'
+app.secret_key = '123456'
 
 
 @app.route('/')
